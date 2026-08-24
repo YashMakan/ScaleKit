@@ -4,6 +4,11 @@ Included pages
 - index.html — Home
 - e-commerce-page/index.html — E-commerce funding
 - working-capital/index.html — Working capital
+- small-business-loans/index.html — Small business loans
+- sba-loans/index.html — SBA loans
+- business-line-of-credit/index.html — Business line of credit
+- term-loans/index.html — Term loans
+- startup-loans/index.html — Startup loans
 
 Included assets
 - assets/ — Compiled website stylesheet
